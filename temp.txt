@@ -1,0 +1,52 @@
+5/8
+https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221115173000ROC3_RO/20221115173000ROC3_RO_aac.mp4/media_w1706206213_8.ts?hash=26bdadf55ee4e9dd916b0617dad8635b3ad447f2
+
+6/8
+https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221117173000ROC3_RO/20221117173000ROC3_RO_aac.mp4/media_w95100271_1191.ts?hash=793123aebdbcca7382a83576e0c4cec717461c11
+
+
+7/8
+https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221122173000ROC3_RO/20221122173000ROC3_RO_aac.mp4/media_w515932731_1207.ts?hash=30f8041f50eb36ce2133562273ca89d10562cbb5
+
+
+8/8
+
+
+url1 = "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221101173000ROC3_RO/20221101173000ROC3_RO_aac.mp4/media_w188600440_1169.ts?hash=7ce3e674b65c24a34a9e0ed1347995588e545001"
+url2 = "https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221103173000ROC3_RO/20221103173000ROC3_RO_aac.mp4/media_w755169945_1200.ts?hash=c6b7fcfc2232508bedde1cab26b5c2a4e6f8ef32"
+url3 = "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221108173000ROC3_RO/20221108173000ROC3_RO_aac.mp4/media_w638427682_1200.ts?hash=d22a43c93628142671aa32808aeb874ee3e7cebb"
+url4 = "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221110173000ROC3_RO/20221110173000ROC3_RO_aac.mp4/media_w100099219_1171.ts?hash=1b139efc69497b122374bdf9e3ca651392dd20ec"
+url5 = "https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221115173000ROC3_RO/20221115173000ROC3_RO_aac.mp4/media_w1706206213_1209.ts?hash=26bdadf55ee4e9dd916b0617dad8635b3ad447f2"
+url6 = "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221117173000ROC3_RO/20221117173000ROC3_RO_aac.mp4/media_w95100271_1191.ts?hash=793123aebdbcca7382a83576e0c4cec717461c11"
+url7 = "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221122173000ROC3_RO/20221122173000ROC3_RO_aac.mp4/media_w515932731_1207.ts?hash=30f8041f50eb36ce2133562273ca89d10562cbb5"
+url8 = "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221124173000ROC3_RO/20221124173000ROC3_RO_aac.mp4/media_w1634914331_1178.ts?hash=2b8f5abb0b860e8addaf9f1b906bc72cb30546b2"
+
+"https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221101173000ROC3_RO/20221101173000ROC3_RO_aac.mp4/media_w188600440_1169.ts?hash=7ce3e674b65c24a34a9e0ed1347995588e545001", 
+"https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221103173000ROC3_RO/20221103173000ROC3_RO_aac.mp4/media_w755169945_1200.ts?hash=c6b7fcfc2232508bedde1cab26b5c2a4e6f8ef32", 
+"https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221108173000ROC3_RO/20221108173000ROC3_RO_aac.mp4/media_w638427682_1200.ts?hash=d22a43c93628142671aa32808aeb874ee3e7cebb", 
+"https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221110173000ROC3_RO/20221110173000ROC3_RO_aac.mp4/media_w100099219_1171.ts?hash=1b139efc69497b122374bdf9e3ca651392dd20ec", 
+"https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221115173000ROC3_RO/20221115173000ROC3_RO_aac.mp4/media_w1706206213_1209.ts?hash=26bdadf55ee4e9dd916b0617dad8635b3ad447f2", 
+"https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221117173000ROC3_RO/20221117173000ROC3_RO_aac.mp4/media_w95100271_1191.ts?hash=793123aebdbcca7382a83576e0c4cec717461c11", 
+"https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221122173000ROC3_RO/20221122173000ROC3_RO_aac.mp4/media_w515932731_1207.ts?hash=30f8041f50eb36ce2133562273ca89d10562cbb5", 
+"https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221124173000ROC3_RO/20221124173000ROC3_RO_aac.mp4/media_w1634914331_1178.ts?hash=2b8f5abb0b860e8addaf9f1b906bc72cb30546b2"
+
+urls_01_PPF = [
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221101173000ROC3_RO/20221101173000ROC3_RO_aac.mp4/media_w188600440_1169.ts?hash=7ce3e674b65c24a34a9e0ed1347995588e545001", 
+    "https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221103173000ROC3_RO/20221103173000ROC3_RO_aac.mp4/media_w755169945_1200.ts?hash=c6b7fcfc2232508bedde1cab26b5c2a4e6f8ef32", 
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221108173000ROC3_RO/20221108173000ROC3_RO_aac.mp4/media_w638427682_1200.ts?hash=d22a43c93628142671aa32808aeb874ee3e7cebb", 
+    "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221110173000ROC3_RO/20221110173000ROC3_RO_aac.mp4/media_w100099219_1171.ts?hash=1b139efc69497b122374bdf9e3ca651392dd20ec", 
+    "https://5a6b2f0cf3969.streamlock.net:4443/vod/_definst_/2022/20221115173000ROC3_RO/20221115173000ROC3_RO_aac.mp4/media_w1706206213_1209.ts?hash=26bdadf55ee4e9dd916b0617dad8635b3ad447f2", 
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221117173000ROC3_RO/20221117173000ROC3_RO_aac.mp4/media_w95100271_1191.ts?hash=793123aebdbcca7382a83576e0c4cec717461c11", 
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221122173000ROC3_RO/20221122173000ROC3_RO_aac.mp4/media_w515932731_1207.ts?hash=30f8041f50eb36ce2133562273ca89d10562cbb5", 
+    "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221124173000ROC3_RO/20221124173000ROC3_RO_aac.mp4/media_w1634914331_1178.ts?hash=2b8f5abb0b860e8addaf9f1b906bc72cb30546b2"
+]
+
+urls_02_OOP = [
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221206173000ROC3_RO/20221206173000ROC3_RO_aac.mp4/media_w660377432_1173.ts?hash=41d15728a7b96eb3ca4c9e858030e4b29e6347af",
+    "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221208173000ROC3_RO/20221208173000ROC3_RO_aac.mp4/media_w383039396_1205.ts?hash=208f0778ee29ad8260c7bf44a21e8e48413b33d8",
+    "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221213173000ROC3_RO/20221213173000ROC3_RO_aac.mp4/media_w790691369_1220.ts?hash=15a2447a26a104ca96b12bed650e467359c7d021",
+    "https://5aa64ca8b95b8.streamlock.net:4443/vod/_definst_/2022/20221215173000ROC3_RO/20221215173000ROC3_RO_aac.mp4/media_w2006733221_1187.ts?hash=185c63f170430bfe8aff1104b43c51bd3d2a9d47",
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221220173000ROC3_RO/20221220173000ROC3_RO_aac.mp4/media_w1566347242_1196.ts?hash=9e83e8e9442b82d514803435e3dcc36418251e28",
+    "https://5e6f49934c5f8.streamlock.net:4443/vod/_definst_/2022/20221222173000ROC3_RO/20221222173000ROC3_RO_aac.mp4/media_w1370944657_1273.ts?hash=caeac2ef3da6ab64651d91a425b999e7d98fdba9"    
+]
+
